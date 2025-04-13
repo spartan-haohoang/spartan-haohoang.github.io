@@ -3,9 +3,16 @@
 	  "dates": "October 2023 · Present",
 	  "role": "AI Software Engineer",
 	  "company": "Spartan",
-	  "description": "Leading AI integration efforts, optimizing PDF parsing, and enhancing NLP models using Large Language Models (LLMs).",
+	  "description": "Developed a LLMs platform using Kotlin.",
 	  "logo": "/assets/images/experiences/spartandev_logo.ico"
 	},
+	{
+		"dates": "October 2023 · March 2025",
+		"role": "Senior AI Engineer",
+		"company": "J.D. Power",
+		"description": "Leading AI integration efforts, optimizing PDF parsing, and enhancing NLP models using Large Language Models (LLMs).",
+		"logo": "/assets/images/experiences/jdpower_logo.ico"
+	  },
 	{
 	  "dates": "March 2023 · Present",
 	  "role": "Research Assistant",
