@@ -1,0 +1,38 @@
+[
+	{
+		"name": "🧠 AI Chat with Thinking UI",
+		"description": "This project leverages DeepSeek-R1 and Streamlit to create a lightweight, locally running ChatGPT-style chatbot with a unique 'thinking' UI.",
+		"image": "/assets/images/projects/thinking-ui.jpg",
+		"url": "https://github.com/vanhaohoang/deepseek-thinking-ui"
+	},
+	{
+		"name": "🎙️ Realtime AI Travel Guide Voice Bot",
+		"description": "Powered by AssemblyAI, OpenAI, and ElevenLabs, this real-time voice bot listens to you, understands your queries, and responds with a natural-sounding AI voice",
+		"image": "/assets/images/projects/real-time-voicebot.png",
+		"url": "https://github.com/vanhaohoang/real-time-voicebot"
+	},
+	{
+		"name": "🚀 Multimodal RAG with DeepSeek & Qdrant",
+		"description": "A powerful Retrieval-Augmented Generation (RAG) system that combines text and image embeddings with DeepSeek and Qdrant to provide rich contextual responses! 🚀",
+		"image": "/assets/images/projects/deepseek-multimodal-RAG.jpg",
+		"url": "https://github.com/vanhaohoang/deepseek-multimodal-RAG"
+	},
+	{
+		"name": "🏥 AI-Powered Chest X-Ray Report Generator",
+		"description": "This project utilizes MAIRA-2, a state-of-the-art multimodal AI model, to analyze X-ray images and provide automatic findings with just a few clicks. 🩻",
+		"image": "/assets/images/projects/ai-xray-report-generator.jpg",
+		"url": "https://github.com/vanhaohoang/ai-xray-report-generator"
+	},
+	{
+		"name": "🚀 AI Reasoning Engine using GRPO",
+		"description": "Building a robust reasoning model inspired by DeepSeek-R1, leveraging Unsloth for ultra-fast training and inference. 🧠.",
+		"image": "/assets/images/projects/grpo-reasoning-model.jpeg",
+		"url": "https://github.com/vanhaohoang/grpo-reasoning-model"
+	},
+	{
+		"name": "📖 RepoAgent: AI-Powered Documentation Assistant",
+		"description": "RepoAgent is your intelligent AI-powered assistant that automatically generates and maintains documentation for your code repository",
+		"image": "/assets/images/projects/repo-agent.png",
+		"url": "https://github.com/vanhaohoang/RepoAgent"
+	}
+]
