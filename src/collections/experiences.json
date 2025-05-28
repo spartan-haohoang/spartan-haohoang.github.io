@@ -1,44 +1,44 @@
 [
 	{
-	  "dates": "October 2023 · Present",
-	  "role": "AI Software Engineer",
+	  "dates": "October 2023 – Present",
+	  "role": "AI Researcher and Software Engineer",
 	  "company": "Spartan",
-	  "description": "Developed a LLMs platform using Kotlin.",
+	  "description": "Researching advanced RAG methods (GraphRAG, PathRAG) and designing agentic LLM systems for code review automation using Kotlin; applying Computer Vision and VLMs for technical drawing understanding.",
 	  "logo": "/assets/images/experiences/spartandev_logo.ico"
 	},
 	{
-		"dates": "October 2023 · March 2025",
-		"role": "Senior AI Engineer",
-		"company": "J.D. Power",
-		"description": "Leading AI integration efforts, optimizing PDF parsing, and enhancing NLP models using Large Language Models (LLMs).",
-		"logo": "/assets/images/experiences/jdpower_logo.ico"
-	  },
+	  "dates": "October 2023 – March 2025",
+	  "role": "Senior AI Engineer",
+	  "company": "J.D. Power",
+	  "description": "Spearheaded PDF parsing R&D (Azure Document Intelligence, PyMuPDF) and deployed scalable GCP backend services (Kubernetes, Helm) with LangChain/LlamaIndex for RAG in automotive data solutions.",
+	  "logo": "/assets/images/experiences/jdpower_logo.ico"
+	},
 	{
-	  "dates": "March 2023 · Present",
+	  "dates": "March 2023 – March 2025",
 	  "role": "Research Assistant",
 	  "company": "The International Society of Data Scientists",
-	  "description": "Conducting research on NLP techniques and mentoring students in LLM applications.",
+	  "description": "Researched LLM/NLP methods, mentored junior researchers, developed a Vietnamese real estate chatbot, and built deep learning models for risk analysis and market forecasting.",
 	  "logo": "/assets/images/experiences/isods_logo.ico"
 	},
 	{
-	  "dates": "January 2023 · December 2023",
+	  "dates": "January 2023 – December 2023",
 	  "role": "Data Scientist",
 	  "company": "Viettel Big Data Analytics Center",
-	  "description": "Developed recommendation systems and built ETL pipelines for large-scale data processing.",
+	  "description": "Built recommendation systems (collaborative filtering, content-based, REC-VAE for TV360) and developed ETL pipelines with Pentaho and PySpark for large-scale data processing.",
 	  "logo": "/assets/images/experiences/dac_viettel_logo.ico"
 	},
 	{
-	  "dates": "January 2022 · January 2023",
+	  "dates": "January 2022 – January 2023",
 	  "role": "Data Scientist",
 	  "company": "Kratos Defense and Security Solutions",
-	  "description": "Worked on time series analysis, anomaly detection, and predictive modeling.",
+	  "description": "Focused on time series analysis, conducting motif discovery, anomaly detection, and time series summarization using Matrix Profile techniques.",
 	  "logo": "/assets/images/experiences/kratos_defense_and_security_solutions_logo.ico"
 	},
 	{
-	  "dates": "September 2019 · September 2022",
+	  "dates": "September 2019 – September 2022",
 	  "role": "Research Assistant",
 	  "company": "INSA Toulouse",
-	  "description": "Applied advanced ML techniques, including SVM, Random Forest, and Neural Networks, for research projects.",
+	  "description": "Applied advanced ML (SVM, Random Forest, Neural Networks) and deep learning techniques (Autoencoders, GANs) for anomaly detection and conducted signal processing research.",
 	  "logo": "/assets/images/experiences/institut_national_des_sciences_appliques_de_toulouse_logo.ico"
 	}
   ]
